@@ -363,7 +363,7 @@ h1, h2, h3, h4, h5, h6 {
   background-color: rgba(59, 59, 59, 0.8);
   overflow: hidden;
   padding: 0;
-  margin-bottom: -120px;
+  margin-bottom: 120px;
   position: relative;
   z-index: 1;
 }
