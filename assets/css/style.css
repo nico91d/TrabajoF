@@ -778,7 +778,7 @@ section {
 }
 
 .counts .count-box span {
-  font-size: 42px;
+  font-size: 30px;
   line-height: 24px;
   display: block;
   font-weight: 700;
@@ -858,10 +858,27 @@ section {
 }
 
 .testimonials .testimonial-item p {
-  font-style: italic;
+  font-family: "Raleway", sans-serif;
+  font-size: 14px;
   margin: 15px 0 0 0;
   padding: 0;
 }
+/*Esto es de la seccion integración escolar*/
+.testimonials .testimonial-item i {
+  display: block;
+  font-size: 30px;
+  color: #e96b56;
+  float: left;
+}
+.testimonials .testimonial-item span {
+  font-size: 30px;
+  line-height: 24px;
+  display: block;
+  font-weight: 700;
+  color: #545454;
+  margin-left: 50px;
+}
+
 
 /*--------------------------------------------------------------
 # Our Skills
