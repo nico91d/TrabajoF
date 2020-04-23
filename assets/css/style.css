@@ -2140,3 +2140,61 @@ section {
   font-size: 13px;
   color: #fff;
 }
+
+
+/*MELI NO BORRES ESTO AQUI VA EL CSS DE LOS BOTONES DE LAS REDES SOCIALES*/
+
+.IM2020 a{
+  margin: 0 20px;
+  width: 80px;
+  height: 80px;
+  background-color: #404040;
+  display: inline-block;
+  border-radius: 10px;
+  box-shadow: 10px 10px 16px rgba(0,0,0,.15),
+              -10px -10px 16px rgba(255,255,255,.1);
+  overflow: hidden;
+  font-size: 28px;
+  transition: .4s linear;
+  position: relative;
+}
+
+.IM2020 a:hover{
+  transform: scale(1.3);
+  border-radius: 20%;/*era %60 para que se haga circulo pero no me convencia ahi me gusta un poco mas igual es debatible*/
+}
+
+.IM2020 a i::before{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  background-size: 200% 200%;
+  background-position: 75% 75%;
+  top: 0;
+  left: 0;
+  line-height: 80px;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  transition: background .5s linear;
+}
+
+.IM2020 a:hover i::before{
+  background-position: 0% 0%;
+}
+
+.fa-facebook-f::before{
+  background-image: linear-gradient(135deg,#3b5998 30%,#E6E6FA 50%);
+}
+
+.fa-whatsapp::before{
+  background-image: linear-gradient(135deg,#00bb2d 30%,#E6E6FA 50%);
+}
+
+.fa-instagram::before{
+  background-image: linear-gradient(135deg,#c32aa3 30%,#E6E6FA 50%);
+}
+
+.fa-youtube::before{
+  background-image: linear-gradient(135deg,#d71e18 30%,#E6E6FA 50%);
+}
