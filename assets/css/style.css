@@ -1223,8 +1223,8 @@ section {
   text-decoration: line-through;
 }
 
-.pricing .buy-btn {
-  background: #545454;
+.services .buy-btn {
+  background: #e96b56;
   display: inline-block;
   padding: 8px 30px;
   border-radius: 20px;
@@ -1236,8 +1236,8 @@ section {
   transition: 0.3s;
 }
 
-.pricing .buy-btn:hover {
-  background: #e96b56;
+.services .buy-btn:hover {
+  background: #545454;
 }
 
 .pricing .featured {
