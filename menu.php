@@ -29,13 +29,10 @@
 
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
-
-
 </head>
 
 <body>
   <?php include ('conexion.php'); ?>
-  <!-- ======= Header ======= -->
   <header id="header">
     <div class="container d-flex">
 
@@ -57,7 +54,7 @@
 
     </div>
   </header><!-- End Header -->
-
+  
   <!-- Vendor JS Files -->
   <script src="assets/vendor/jquery/jquery.min.js"></script>
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
