@@ -1234,7 +1234,15 @@ section {
   font-weight: 400;
   font-family: "Raleway", sans-serif;
   transition: 0.3s;
+  border: 2px solid #545454;
+  margin-top: 7%;
 }
+.services .card{
+  border:none; 
+  background: transparent; 
+  color:#545454;
+}
+
 
 .services .buy-btn:hover {
   background: #545454;
