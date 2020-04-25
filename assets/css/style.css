@@ -18,7 +18,7 @@ a {
 }
 
 a:hover {
-  color: #e6573f;
+  color: #D68831;
   text-decoration: none;
 }
 
@@ -264,7 +264,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav-toggle i {
-  color: #e96b56;
+  color: #D68831;
 }
 
 .mobile-nav {
@@ -299,7 +299,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav a:hover, .mobile-nav .active > a, .mobile-nav li:hover > a {
-  color: #e96b56;
+  color: #D68831;
   text-decoration: none;
 }
 
@@ -360,7 +360,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 70vh;
-  background-color: rgba(59, 59, 59, 0.8);
+  background-color: white;
   overflow: hidden;
   padding: 0;
   margin-bottom: 120px;
