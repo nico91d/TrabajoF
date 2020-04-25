@@ -497,7 +497,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero .btn-get-started:hover {
   background: transparent;
-  color: #e96b56;
+  color: #545454;
   text-decoration: none;
 }
 
@@ -1444,6 +1444,7 @@ section {
 
 .contact .php-email-form button[type="submit"]:hover {
   background: #e6573f;
+  opacity: 0.8;
 }
 
 @-webkit-keyframes animate-loading {
@@ -1496,7 +1497,7 @@ section {
 }
 
 .blog .entry .entry-title a:hover {
-  color: #e96b56;
+  color: #D68831;
 }
 
 .blog .entry .entry-meta {
