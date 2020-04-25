@@ -654,7 +654,7 @@ section {
   margin: 0 auto;
   width: 64px;
   height: 64px;
-  background: #e96b56;
+  background: #D68831;
   border-radius: 5px;
   transition: all .3s ease-out 0s;
   display: flex;
@@ -699,8 +699,8 @@ section {
 }
 
 .services .icon-box:hover {
-  background: #e96b56;
-  border-color: #e96b56;
+  background: #D68831;
+  border-color: #D68831;
 }
 
 .services .icon-box:hover .icon {
@@ -708,11 +708,11 @@ section {
 }
 
 .services .icon-box:hover .icon i {
-  color: #e96b56;
+  color: #D68831;
 }
 
 .services .icon-box:hover .icon::before {
-  background: #ef9383;
+  background: #D68831;
 }
 
 .services .icon-box:hover h4 a, .services .icon-box:hover p {
@@ -1220,7 +1220,7 @@ section {
 }
 
 .services .buy-btn {
-  background: #e96b56;
+  background: #D68831;
   display: inline-block;
   padding: 8px 30px;
   border-radius: 20px;
@@ -1230,7 +1230,15 @@ section {
   font-weight: 400;
   font-family: "Raleway", sans-serif;
   transition: 0.3s;
+  border: 2px solid #545454;
+  margin-top: 7%;
 }
+.services .card{
+  border:none; 
+  background: transparent; 
+  color:#545454;
+}
+
 
 .services .buy-btn:hover {
   background: #545454;
@@ -1242,7 +1250,7 @@ section {
 }
 
 .pricing .featured .buy-btn {
-  background: #e96b56;
+  background: #F1D327;
 }
 
 .pricing .featured .buy-btn:hover {
@@ -1316,7 +1324,7 @@ section {
 }
 
 .team .member .social a:hover {
-  color: #e96b56;
+  color: #D68831;
 }
 
 .team .member .social i {
@@ -1531,7 +1539,7 @@ section {
 
 .blog .entry .entry-content .read-more a {
   display: inline-block;
-  background: #e96b56;
+  background: #D68831;
   color: #fff;
   padding: 6px 20px 8px 20px;
   transition: 0.3s;
@@ -1540,7 +1548,8 @@ section {
 }
 
 .blog .entry .entry-content .read-more a:hover {
-  background: #e6573f;
+  background: #D68831;
+  opacity: 0.8;
 }
 
 .blog .entry .entry-content h3 {
@@ -1819,8 +1828,8 @@ section {
 }
 
 .blog .blog-pagination li.active, .blog .blog-pagination li:hover {
-  background: #e96b56;
-  border: 1px solid #e96b56;
+  background: #D68831;
+  border: 1px solid #D68831;
 }
 
 .blog .blog-pagination li.active a, .blog .blog-pagination li:hover a {

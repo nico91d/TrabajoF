@@ -151,7 +151,7 @@
         <div class="container">
 
           <div class="row">      
-            <div class="col-lg-6 pt-4 pt-lg-0 content">
+            <div class="col-lg-6 pt-4 pt-lg-0 content order-2 order-lg-1">
               <h3>¿Qué es la discapcidad?</h3>
               <p class="font-italic">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
@@ -168,7 +168,7 @@
                 culpa qui officia deserunt mollit anim id est laborum
               </p>
             </div>
-            <div class="col-lg-6">
+            <div class="col-lg-6 order-1 order-lg-2">
               <img src="assets/img/about.jpg" class="img-fluid" alt="">
             </div>
           </div>
@@ -190,7 +190,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="icon-box">
               <div class="icon"><i class="bx bxl-dribbble"></i></div>
-              <h4><a href=""></a>Fonoudiología</h4>
+              <h4><a href=""></a>Fonoaudiología</h4>
               <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
             </div>
           </div>
