@@ -45,7 +45,7 @@
           <li><a href="nosotros.php">Nosotros</a></li>
           <li><a href="inclusion.php">Inclusión Escolar</a></li>
           <li  class="active"><a href="#">Preguntas Frecuentes</a></li>
-          <li><a href="#">Información Destacada</a></li>
+          <li><a href="ndestacadas.php">Información Destacada</a></li>
           <li><a href="contacto.php">Contacto</a></li>
 
         </ul>
@@ -59,7 +59,7 @@
       <div class="container">
 
         <ol>
-          <li><a href="index.html">Ark ho</a></li>
+          <li><a href="index.html">ARK HO</a></li>
           <li>Preguntas Frecuentes</li>
         </ol>
         <h2>Preguntas frecuentes</h2>
