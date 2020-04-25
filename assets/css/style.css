@@ -45,7 +45,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 40px;
   height: 40px;
   border-radius: 4px;
-  background: #e96b56;
+  background: #D68831;
   color: #fff;
   transition: all 0.4s;
 }
@@ -167,7 +167,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
-  color: #e96b56;
+  color: #D68831;
   text-decoration: none;
 }
 
@@ -411,7 +411,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero h2 span {
-  color: #e96b56;
+  color: #D68831;
 }
 
 #hero p {
@@ -463,7 +463,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero .carousel-indicators li {
   cursor: pointer;
-  background: #e96b56;
+  background: #D68831;
   overflow: hidden;
   border: 0;
   width: 12px;
@@ -491,8 +491,8 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
-  border: 2px solid #e96b56;
-  background: #e96b56;
+  border: 2px solid #D68831;
+  background: #D68831;
 }
 
 #hero .btn-get-started:hover {
@@ -562,7 +562,7 @@ section {
   display: block;
   width: 50px;
   height: 3px;
-  background: #e96b56;
+  background: #D68831;
   bottom: 0;
   left: calc(50% - 25px);
 }
@@ -633,7 +633,7 @@ section {
 .about .content ul i {
   font-size: 20px;
   padding-right: 4px;
-  color: #e96b56;
+  color: #D68831;
 }
 
 .about .content p:last-child {
@@ -1992,7 +1992,7 @@ section {
 }
 
 .faq .faq-item i {
-  color: #c13139;
+  color: #D68831;
   font-size: 24px;
   float: left;
   line-height: 0;
