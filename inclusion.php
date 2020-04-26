@@ -60,7 +60,7 @@
       <div class="container">
 
         <ol>
-          <li><a href="index.html">ARK HO</a></li>
+          <li><a href="index.php">ARK HO</a></li>
           <li>Integración Escolar</li>
         </ol>
         <h2>Integración Escolar</h2>
