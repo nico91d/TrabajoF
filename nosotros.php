@@ -59,7 +59,7 @@
       <div class="container">
 
         <ol>
-          <li><a href="index.html">ARK HO</a></li>
+          <li><a href="index.php">ARK HO</a></li>
           <li>Nosotros</li>
         </ol>
         <h2>Nosotros</h2>
