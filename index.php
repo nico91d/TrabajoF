@@ -7,7 +7,7 @@
   <title>Fundación Ark Ho</title>
   <meta content="" name="descriptison">
   <meta content="" name="keywords">
-<!-- -->
+
   <!--link de los social media en la parte de abajo de la pagina-->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
 
@@ -241,11 +241,26 @@
         </div>
 
         <div class="row justify-content-center IM2020 ">
-          <a href="https://www.facebook.com/fundacion.arkho" target="_blank"><i class="fab fa-facebook-f"></i></a>
-          <a href=""><i class="fab fa-youtube" target="_blank"></i></a>
-          <a href="https://api.whatsapp.com/send?phone=+54 385 471 3407" target="_blank"><i class="fab fa-whatsapp"></i></a>
-          <a href="https://www.instagram.com/fundacionarkho/" target="_blank"><i class="fab fa-instagram"></i></a>
-            <a href="" target="_blank"><i class="fab fa-whatsapp"></i></a>
+          <div class="col-2">
+              <a href="https://www.facebook.com/fundacion.arkho" target="_blank"><i class="fab fa-facebook-f"></i></a>
+          </div>
+
+          <div class="col-2">
+            <a href="https://www.youtube.com/channel/UC2UHuvShGVYOzp4Pct3yDww/?guided_help_flow=5" target="_blank"><i class="fab fa-youtube" target="_blank"></i></a>
+          </div>
+
+          <div class="col-2">
+            <a href="https://api.whatsapp.com/send?phone=+54 385 471 3407" target="_blank"><i class="fab fa-whatsapp"></i></a>
+          </div>
+
+          <div class="col-2">
+            <a href="mailto:Arkhocba@gmail.com"><i class="far fa-envelope" target="_blank"></i></a>
+          </div>
+
+          <div class="col-2">
+            <a href="https://www.instagram.com/fundacionarkho/" target="_blank"><i class="fab fa-instagram"></i></a>
+          </div>
+ 
        </div>
 
 
@@ -255,7 +270,7 @@
   </main><!-- End #main -->
 
   <!-- ======= Footer ======= -->
-  <?php include ('footer.php'); ?>
+
   
   <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
 
