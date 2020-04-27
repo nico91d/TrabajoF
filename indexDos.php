@@ -257,6 +257,10 @@
           </div>
 
           <div class="col-2">
+            <a href=""><i class="far fa-envelope" target="_blank"></i></a>
+          </div>
+
+          <div class="col-2">
             <a href="https://www.instagram.com/fundacionarkho/" target="_blank"><i class="fab fa-instagram"></i></a>
             <p>@fundacionarkho</p>
           </div>
