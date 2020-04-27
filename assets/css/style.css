@@ -2259,3 +2259,7 @@ section {
 .fa-youtube::before{
   background-image: linear-gradient(135deg,#d71e18 30%,#E6E6FA 50%);
 }
+
+.fa-envelope::before{
+  background-image: linear-gradient(135deg,#db4a39 30%,#E6E6FA 50%);
+}
