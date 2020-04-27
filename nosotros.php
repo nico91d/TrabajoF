@@ -67,6 +67,38 @@
       </div>
     </section><!-- End Breadcrumbs -->
 
+
+<section id="team" class="team">
+      <div class="container">
+
+        <div class="row">
+          <div class="col-lg-6 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <h3 style="color:#D68831">VISIÓN</h3>
+              <p>
+                Alcanzar un diagnostico, de allí diseñar un tratamiento y realizar una intervención adecuada a las necesidades de las personas y/o grupo familiar en relación a las múltiples problemáticas, promoviendo el progreso y los resultados positivos. En una constante búsqueda de la participación activa del paciente y de su grupo familiar (en los casos que así lo requiere). La modalidad de abordaje siempre a través del trabajo Interdisciplinario para una mejor calidad de atención. Promover la constante capacitación y formación de los profesionales, reuniones sistemáticas con los equipos de trabajo, supervisiones, ateneos internos que creemos se traduce en beneficios, progresos, y la salud de nuestros pacientes.
+              </p>
+            </div>
+          </div>
+
+          <div class="col-lg-6 col-md-6 d-flex align-items-stretch">
+            <div class="member">
+              <h3 style="color:#D68831">MISIÓN</h3>
+              <p>
+                Es un espacio de atención a las múltiples necesidades asociadas al desarrollo del ser humano. Brindando un servicio de calidad acorde a las necesidades de cada persona y su familia, teniendo en cuenta su historia personal, grupo social al que pertenece, y modelo institucional escolar- social a seguir para la integración social plena. Utilizando estrategias de trabajo ligadas a la interdisciplinariedad, el trabajo en equipo y el abordaje Integral de la persona y su contexto. Contando con un grupo de Profesionales de diferentes disciplinas para asistir y prevenir de manera holística, ordenada, responsable y respetuosa las necesidades de nuestros pacientes
+              </p>
+            </div> 
+
+            </div>
+          </div>
+
+
+
+        </div> 
+      </div>
+    </section>
+    <!--termina la seccion team-->
+   
     <!-- ======= Services Section ======= -->
     <section id="services" class="services">
       <div class="container">
