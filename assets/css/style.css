@@ -1,10 +1,3 @@
-/**
-* Template Name: Eterna - v2.0.0
-* Template URL: https://bootstrapmade.com/eterna-free-multipurpose-bootstrap-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -2218,7 +2211,7 @@ section {
   height: 80px;
   background-color: #404040;
   display: inline-block;
-  border-radius: 10px;
+  border-radius: 20%;
   box-shadow: 10px 10px 16px rgba(0,0,0,.15),
               -10px -10px 16px rgba(255,255,255,.1);
   overflow: hidden;
