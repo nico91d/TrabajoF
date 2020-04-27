@@ -254,7 +254,7 @@
           </div>
 
           <div class="col-2">
-            <a href="mailto:Arkhocba@gmail.com"><i class="far fa-envelope" target="_blank"></i></a>
+            <a href="mailto:arkhocba@gmail.com"><i class="far fa-envelope" target="_blank"></i></a>
           </div>
 
           <div class="col-2">
