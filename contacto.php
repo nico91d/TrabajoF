@@ -143,7 +143,11 @@
     <section id="clients" class="clients">
       <div class="container">
         <div class="row justify-content-center IM2020 ">
+<<<<<<< HEAD
          <div class="col-2">
+=======
+          <div class="col-2">
+>>>>>>> cf9a2831516298ee6e9f45d186824635668a0062
               <a href="https://www.facebook.com/fundacion.arkho" target="_blank"><i class="fab fa-facebook-f"></i></a>
           </div>
 
@@ -156,12 +160,21 @@
           </div>
 
           <div class="col-2">
+<<<<<<< HEAD
             <a href="mailto:arkho.cba@gmail.com"><i class="far fa-envelope" target="_blank"></i></a>
+=======
+            <a href="mailto:arkhocba@gmail.com"><i class="far fa-envelope" target="_blank"></i></a>
+>>>>>>> cf9a2831516298ee6e9f45d186824635668a0062
           </div>
 
           <div class="col-2">
             <a href="https://www.instagram.com/fundacionarkho/" target="_blank"><i class="fab fa-instagram"></i></a>
           </div>
+<<<<<<< HEAD
+=======
+ 
+       </div>
+>>>>>>> cf9a2831516298ee6e9f45d186824635668a0062
 
 
       </div>
