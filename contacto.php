@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Fundación Ark Ho</title>
+  <title>Fundación Ark Ho | CONTACTO </title>
   <meta content="" name="descriptison">
   <meta content="" name="keywords">
 
@@ -43,9 +43,9 @@
         <ul>
           <li><a href="index.php">Home</a></li>
           <li><a href="nosotros.php">Nosotros</a></li>
-          <li><a href="inclusion.php">Inclusión Escolar</a></li>
-          <li><a href="preguntas.php">Preguntas Frecuentes</a></li>
-          <li><a href="ndestacadas.php">Información Destacada</a></li>
+          <li><a href="inclusion.php">Inclusión escolar</a></li>
+          <li><a href="preguntas.php">Preguntas frecuentes</a></li>
+          <li><a href="ndestacadas.php">Información destacada</a></li>
           <li class="active"><a href="#">Contacto</a></li>
 
         </ul>
@@ -86,7 +86,7 @@
             <div class="info-box  mb-4">
               <i class="bx bx-envelope"></i>
               <h3>Email</h3>
-              <p>contact@example.com</p>
+              <p>arkho.cba@gmail.com</p>
             </div>
           </div>
 
@@ -94,7 +94,7 @@
             <div class="info-box  mb-4">
               <i class="bx bx-phone-call"></i>
               <h3>Teléfono</h3>
-              <p>+1 5589 55488 55</p>
+              <p>+549 351-23 33 551 </p>
             </div>
           </div>
 
@@ -143,12 +143,25 @@
     <section id="clients" class="clients">
       <div class="container">
         <div class="row justify-content-center IM2020 ">
-          <a href="https://www.facebook.com/fundacion.arkho" target="_blank"><i class="fab fa-facebook-f"></i></a>
-          <a href=""><i class="fab fa-youtube" target="_blank"></i></a>
-          <a href="https://api.whatsapp.com/send?phone=+54 385 471 3407" target="_blank"><i class="fab fa-whatsapp"></i></a>
-          <a href="https://www.instagram.com/fundacionarkho/" target="_blank"><i class="fab fa-instagram"></i></a>
-            <a href="" target="_blank"><i class="fab fa-whatsapp"></i></a>
-       </div>
+         <div class="col-2">
+              <a href="https://www.facebook.com/fundacion.arkho" target="_blank"><i class="fab fa-facebook-f"></i></a>
+          </div>
+
+          <div class="col-2">
+            <a href="https://www.youtube.com/channel/UC2UHuvShGVYOzp4Pct3yDww/?guided_help_flow=5" target="_blank"><i class="fab fa-youtube" target="_blank"></i></a>
+          </div>
+
+          <div class="col-2">
+            <a href="https://api.whatsapp.com/send?phone=+54 385 471 3407" target="_blank"><i class="fab fa-whatsapp"></i></a>
+          </div>
+
+          <div class="col-2">
+            <a href="mailto:arkho.cba@gmail.com"><i class="far fa-envelope" target="_blank"></i></a>
+          </div>
+
+          <div class="col-2">
+            <a href="https://www.instagram.com/fundacionarkho/" target="_blank"><i class="fab fa-instagram"></i></a>
+          </div>
 
 
       </div>
