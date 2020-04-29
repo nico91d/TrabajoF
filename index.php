@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Fundación Ark Ho</title>
+  <title>Fundación Ark Ho | INICIO</title>
   <meta content="" name="descriptison">
   <meta content="" name="keywords">
 
@@ -43,9 +43,9 @@
         <ul>
           <li class="active"><a href="#">Home</a></li>
           <li><a href="nosotros.php">Nosotros</a></li>
-          <li><a href="inclusion.php">Inclusión Escolar</a></li>
-          <li><a href="preguntas.php">Preguntas Frecuentes</a></li>
-          <li><a href="ndestacadas.php">Información Destacada</a></li>
+          <li><a href="inclusion.php">Inclusión escolar</a></li>
+          <li><a href="preguntas.php">Preguntas frecuentes</a></li>
+          <li><a href="ndestacadas.php">Información destacada</a></li>
           <li><a href="contacto.php">Contacto</a></li>
 
         </ul>
@@ -214,7 +214,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-world"></i></div>
-              <h4><a href="">Psicomotricista</a></h4>
+              <h4><a href="">Psicomotricidad</a></h4>
               <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
             </div>
           </div>
@@ -254,7 +254,7 @@
           </div>
 
           <div class="col-2">
-            <a href="mailto:arkhocba@gmail.com"><i class="far fa-envelope" target="_blank"></i></a>
+            <a href="mailto:arkho.cba@gmail.com"><i class="far fa-envelope" target="_blank"></i></a>
           </div>
 
           <div class="col-2">
