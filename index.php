@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Fundación Ark Ho | INICIO</title>
+  <title>Fundación Ark Ho |</title>
   <meta content="" name="descriptison">
   <meta content="" name="keywords">
 
@@ -190,7 +190,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="icon-box">
               <div class="icon"><i class="bx bxl-dribbble"></i></div>
-              <h4><a href=""></a>Fonoaudiología</h4>
+              <a href=""><h4>Fonoaudiología</h4></a>
               <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
             </div>
           </div>
